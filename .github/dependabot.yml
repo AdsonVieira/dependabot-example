@@ -9,5 +9,4 @@ updates:
   - package-ecosystem: composer
     directory: "/"
     schedule:
-        schedule:
       interval: "daily"
